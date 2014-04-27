@@ -1174,5 +1174,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/378800000021852655/d9c03cdd3feea0ce0036962483949f3c.png",
         license:"GPLv3",
         licenseUrl:"http://www.gnu.org/licenses/gpl.txt"
+    },
+    {
+    	name:"mPurpose",
+    	title:"mPurpose",
+    	short:"Clean, multipurpose template",
+    	full:"<b>mPurpose</b> is a responsive, clean HTML/CSS template. It contains a huge variety of components and more that 30 sample pages so could be used for almost any type of website",
+    	tags:["theme","fixed","light", "portfolio", "blog", "full", "login"],
+    	imgUrl:"http://www.dragdropsite.com/wp-content/uploads/2014/03/mPurpose-template.jpg",
+    	downloadUrl:"https://github.com/dragdropsite/mPurpose/archive/master.zip",
+    	sourceUrl:"https://github.com/dragdropsite/mPurpose",
+    	previewUrl:"http://www.dragdropsite.com/demo/mpurpose-free-multipurpose-twitter-bootstrap-3-template",
+    	author:"dragdropsite.com",
+    	authorUrl:"http://www.dragdropsite.com",
+    	bootstrapVersion:"3.1.1",
+    	avatar:"http://www.dragdropsite.com/wp-content/themes/dragdropsite/library/images/logo-mini.png",
+    	license:"MIT",
+    	licenseUrl:"https://github.com/dragdropsite/mPurpose/blob/master/LICENSE"
     }
 ]
